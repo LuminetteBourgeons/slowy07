@@ -16,6 +16,7 @@ Hello! my name is **Arfy Slowy**, I live in Aceh, Indonesia, a peaceful city wit
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
 [![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/arfyslowy)
 
+</br>
 
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
 
